@@ -1,0 +1,7 @@
+C:\Labs\Labs_01\Lab_03_arga\bin\Debug\Lab_03_arga.exe.config
+C:\Labs\Labs_01\Lab_03_arga\bin\Debug\Lab_03_arga.exe
+C:\Labs\Labs_01\Lab_03_arga\bin\Debug\Lab_03_arga.pdb
+C:\Labs\Labs_01\Lab_03_arga\obj\Debug\Labs_03_args.csprojAssemblyReference.cache
+C:\Labs\Labs_01\Lab_03_arga\obj\Debug\Labs_03_args.csproj.CoreCompileInputs.cache
+C:\Labs\Labs_01\Lab_03_arga\obj\Debug\Lab_03_arga.exe
+C:\Labs\Labs_01\Lab_03_arga\obj\Debug\Lab_03_arga.pdb

@@ -1,0 +1,8 @@
+C:\Labs\Labs_01\Labs_02_dll\bin\Debug\netstandard1.4\Labs_02_dll.deps.json
+C:\Labs\Labs_01\Labs_02_dll\bin\Debug\netstandard1.4\Labs_02_dll.dll
+C:\Labs\Labs_01\Labs_02_dll\bin\Debug\netstandard1.4\Labs_02_dll.pdb
+C:\Labs\Labs_01\Labs_02_dll\obj\Debug\netstandard1.4\Labs_02_dll.csprojAssemblyReference.cache
+C:\Labs\Labs_01\Labs_02_dll\obj\Debug\netstandard1.4\Labs_02_dll.csproj.CoreCompileInputs.cache
+C:\Labs\Labs_01\Labs_02_dll\obj\Debug\netstandard1.4\Labs_02_dll.AssemblyInfo.cs
+C:\Labs\Labs_01\Labs_02_dll\obj\Debug\netstandard1.4\Labs_02_dll.dll
+C:\Labs\Labs_01\Labs_02_dll\obj\Debug\netstandard1.4\Labs_02_dll.pdb

@@ -1,0 +1,7 @@
+C:\Labs\Labs_01\Lab_04_debug\bin\Debug\Lab_04_debug.exe.config
+C:\Labs\Labs_01\Lab_04_debug\bin\Debug\Lab_04_debug.exe
+C:\Labs\Labs_01\Lab_04_debug\bin\Debug\Lab_04_debug.pdb
+C:\Labs\Labs_01\Lab_04_debug\obj\Debug\Labs_04_debug.csproj.CoreCompileInputs.cache
+C:\Labs\Labs_01\Lab_04_debug\obj\Debug\Lab_04_debug.exe
+C:\Labs\Labs_01\Lab_04_debug\obj\Debug\Lab_04_debug.pdb
+C:\Labs\Labs_01\Lab_04_debug\obj\Debug\Labs_04_debug.csprojAssemblyReference.cache

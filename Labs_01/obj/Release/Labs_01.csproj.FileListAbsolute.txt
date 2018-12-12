@@ -1,0 +1,7 @@
+C:\Labs\Labs_01\Labs_01\bin\Release\Labs_01.exe.config
+C:\Labs\Labs_01\Labs_01\bin\Release\Labs_01.exe
+C:\Labs\Labs_01\Labs_01\bin\Release\Labs_01.pdb
+C:\Labs\Labs_01\Labs_01\obj\Release\Labs_01.csprojAssemblyReference.cache
+C:\Labs\Labs_01\Labs_01\obj\Release\Labs_01.csproj.CoreCompileInputs.cache
+C:\Labs\Labs_01\Labs_01\obj\Release\Labs_01.exe
+C:\Labs\Labs_01\Labs_01\obj\Release\Labs_01.pdb

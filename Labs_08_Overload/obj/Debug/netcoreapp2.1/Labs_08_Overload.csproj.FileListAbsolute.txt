@@ -1,0 +1,10 @@
+C:\Labs\Labs_01\Labs_08_Overload\bin\Debug\netcoreapp2.1\Labs_08_Overload.deps.json
+C:\Labs\Labs_01\Labs_08_Overload\bin\Debug\netcoreapp2.1\Labs_08_Overload.runtimeconfig.json
+C:\Labs\Labs_01\Labs_08_Overload\bin\Debug\netcoreapp2.1\Labs_08_Overload.runtimeconfig.dev.json
+C:\Labs\Labs_01\Labs_08_Overload\bin\Debug\netcoreapp2.1\Labs_08_Overload.dll
+C:\Labs\Labs_01\Labs_08_Overload\bin\Debug\netcoreapp2.1\Labs_08_Overload.pdb
+C:\Labs\Labs_01\Labs_08_Overload\obj\Debug\netcoreapp2.1\Labs_08_Overload.csproj.CoreCompileInputs.cache
+C:\Labs\Labs_01\Labs_08_Overload\obj\Debug\netcoreapp2.1\Labs_08_Overload.AssemblyInfoInputs.cache
+C:\Labs\Labs_01\Labs_08_Overload\obj\Debug\netcoreapp2.1\Labs_08_Overload.AssemblyInfo.cs
+C:\Labs\Labs_01\Labs_08_Overload\obj\Debug\netcoreapp2.1\Labs_08_Overload.dll
+C:\Labs\Labs_01\Labs_08_Overload\obj\Debug\netcoreapp2.1\Labs_08_Overload.pdb
