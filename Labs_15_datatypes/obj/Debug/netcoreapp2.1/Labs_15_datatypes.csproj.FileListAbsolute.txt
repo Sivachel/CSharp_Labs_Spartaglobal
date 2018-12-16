@@ -1,0 +1,10 @@
+C:\Labs\Labs_01\Labs_15_datatypes\bin\Debug\netcoreapp2.1\Labs_15_datatypes.deps.json
+C:\Labs\Labs_01\Labs_15_datatypes\bin\Debug\netcoreapp2.1\Labs_15_datatypes.runtimeconfig.json
+C:\Labs\Labs_01\Labs_15_datatypes\bin\Debug\netcoreapp2.1\Labs_15_datatypes.runtimeconfig.dev.json
+C:\Labs\Labs_01\Labs_15_datatypes\bin\Debug\netcoreapp2.1\Labs_15_datatypes.dll
+C:\Labs\Labs_01\Labs_15_datatypes\bin\Debug\netcoreapp2.1\Labs_15_datatypes.pdb
+C:\Labs\Labs_01\Labs_15_datatypes\obj\Debug\netcoreapp2.1\Labs_15_datatypes.csproj.CoreCompileInputs.cache
+C:\Labs\Labs_01\Labs_15_datatypes\obj\Debug\netcoreapp2.1\Labs_15_datatypes.AssemblyInfoInputs.cache
+C:\Labs\Labs_01\Labs_15_datatypes\obj\Debug\netcoreapp2.1\Labs_15_datatypes.AssemblyInfo.cs
+C:\Labs\Labs_01\Labs_15_datatypes\obj\Debug\netcoreapp2.1\Labs_15_datatypes.dll
+C:\Labs\Labs_01\Labs_15_datatypes\obj\Debug\netcoreapp2.1\Labs_15_datatypes.pdb

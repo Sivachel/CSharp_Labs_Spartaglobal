@@ -16,7 +16,7 @@ namespace Labs_10_Sealed
 
     class SLS : SClass { }
 
-    // Don't chnage nay further
+    // Don't change any further
     sealed class SLSSport : SClass { }
     
     class enthusiasticEngineer : SLSSport { }// cannot derive becuase SLSSport is sealed
