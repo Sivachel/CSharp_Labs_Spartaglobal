@@ -6,6 +6,11 @@
         xmlns:local="clr-namespace:Labs_17_Entitywpf"
         mc:Ignorable="d"
         Title="MainWindow" Height="auto" Width="auto">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="30"></Setter>
+        </Style>
+    </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -17,8 +22,16 @@
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="Button01"  Grid.Column="0" Grid.Row="0" Background="Aqua" />
-        <ListBox x:Name="ListBox" Grid.Column="0" Grid.Row="1" Background="Linen" />
+        <ListBox x:Name="ListBox01" Grid.Column="0" Grid.Row="2" Background="LightBlue" TextElement.FontSize="20" />
+        <TextBox x:Name="Textbox01" Grid.Column="1" Grid.Row="0" Background="BlueViolet"/>
+        <Button x:Name="Button01"  Grid.Column="1" Grid.Row="1" Background="Aqua" Content="Search"  Click="Button01_Click" TextElement.FontSize="20" />
+        <ListBox x:Name="ListBox02" Grid.Column="1" Grid.Row="2" Background="Linen" SelectionChanged="ListBox02_SelectionChanged" TextElement.FontSize="20"/>
+        <ListBox x:Name="ListBox03" Grid.Column="2" Grid.Row="2" Background="LightGreen" TextElement.FontSize="20"/>
+        <TextBox x:Name="Textbox02" Grid.Column="2" Grid.Row="0" Background="BlueViolet"/>
+        <Button x:Name="Button02" Grid.Column="2" Grid.Row="1" Background="LightPink" TextElement.FontSize="20" Content="Update" Click="Button02_Click"/>
+        <Button x:Name="Button03" Grid.Column="0" Grid.Row="0" Background="LightSeaGreen" TextElement.FontSize="20" Content="Create" Click="Button03_Click" />
+        <Button x:Name="Button04" Grid.Column="0" Grid.Row="1" Background="LightPink" TextElement.FontSize="20" Content="Delete" />
+        
     </Grid>
     
 </Window>

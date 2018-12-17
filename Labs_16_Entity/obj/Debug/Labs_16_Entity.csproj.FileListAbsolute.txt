@@ -1,0 +1,12 @@
+C:\Labs\Labs_01\Labs_16_Entity\obj\Debug\Labs_16_Entity.csprojAssemblyReference.cache
+C:\Labs\Labs_01\Labs_16_Entity\obj\Debug\Labs_16_Entity.csproj.CoreCompileInputs.cache
+C:\Labs\Labs_01\Labs_16_Entity\bin\Debug\Labs_16_Entity.exe.config
+C:\Labs\Labs_01\Labs_16_Entity\bin\Debug\Labs_16_Entity.exe
+C:\Labs\Labs_01\Labs_16_Entity\bin\Debug\Labs_16_Entity.pdb
+C:\Labs\Labs_01\Labs_16_Entity\bin\Debug\EntityFramework.dll
+C:\Labs\Labs_01\Labs_16_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Labs\Labs_01\Labs_16_Entity\bin\Debug\EntityFramework.xml
+C:\Labs\Labs_01\Labs_16_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Labs\Labs_01\Labs_16_Entity\obj\Debug\Labs_16_Entity.csproj.CopyComplete
+C:\Labs\Labs_01\Labs_16_Entity\obj\Debug\Labs_16_Entity.exe
+C:\Labs\Labs_01\Labs_16_Entity\obj\Debug\Labs_16_Entity.pdb
