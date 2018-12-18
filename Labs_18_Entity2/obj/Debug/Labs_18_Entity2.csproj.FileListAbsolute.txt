@@ -19,3 +19,5 @@ C:\Labs\Labs_01\Labs_18_Entity2\obj\Debug\Labs_18_Entity2.csproj.CoreCompileInpu
 C:\Labs\Labs_01\Labs_18_Entity2\obj\Debug\Labs_18_Entity2.csproj.CopyComplete
 C:\Labs\Labs_01\Labs_18_Entity2\obj\Debug\Labs_18_Entity2.exe
 C:\Labs\Labs_01\Labs_18_Entity2\obj\Debug\Labs_18_Entity2.pdb
+C:\Labs\Labs_01\Labs_18_Entity2\obj\Debug\Mainwindow2.g.cs
+C:\Labs\Labs_01\Labs_18_Entity2\obj\Debug\Mainwindow2.baml

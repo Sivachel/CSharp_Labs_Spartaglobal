@@ -49,25 +49,24 @@ namespace Labs_18_Entity2
         private void LBCity_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             Customer c4 = LBCity.SelectedItem as Customer;
-            var orderDetails = from od in DBContext.Order_Details
-                               join o in DBContext.Orders on od.OrderID equals o.OrderID
-                               join c in DBContext.Customers on o.CustomerID equals c.CustomerID
-                               where c.CustomerID == c4.CustomerID
-                               select od;
-            LBorderDetails.ItemsSource = orderDetails.ToList<Order_Detail>();
-            LBorderDetails.DisplayMemberPath = "ProductID";
+            var order = from o in DBContext.Orders
+                        join c in DBContext.Customers on o.CustomerID equals c.CustomerID
+                        where c.CustomerID == c4.CustomerID
+                        select o;
+            LBorderDetails.ItemsSource = order.ToList<Order>();
+            LBorderDetails.DisplayMemberPath = "OrderID";
 
         }
 
         //Products in the order_details to be displayed in product listbox
         private void LBorderDetails_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            Order_Detail c3 = LBorderDetails.SelectedItem as Order_Detail;
-            var order = from p in DBContext.Products
-                        join od in DBContext.Order_Details on p.ProductID equals od.ProductID
-                        where od.ProductID == c3.ProductID
-                        select p;
-            LBProduct.ItemsSource = order.ToList<Product>();
+            Order c3 = LBorderDetails.SelectedItem as Order;
+            var product = from p in DBContext.Products
+                          join od in DBContext.Order_Details on p.ProductID equals od.ProductID
+                          where od.OrderID == c3.OrderID
+                          select p;
+            LBProduct.ItemsSource = product.ToList<Product>();
             LBProduct.DisplayMemberPath = "ProductName";
         }
     }                     
