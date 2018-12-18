@@ -8,7 +8,7 @@ namespace Labs_14_Iterfaces
         static void Main()
         {
             Child c = new Child();
-            c.
+            c.DoThis();
         }
     }
     //Interface to FORCE A CERTAIN BEHAVIOUR
@@ -31,6 +31,20 @@ namespace Labs_14_Iterfaces
         public void MustUSeThisTool2()
         {
             Console.WriteLine("Using tool2");
+        }
+    }
+
+    //concrete class 
+    class Child : Parent
+    {
+        public override void Dothis() { }
+    }
+
+    class Real : Child, IComparable
+    {
+        public int CompareTo(object real)
+        {
+            return 1;
         }
     }
 }
